@@ -31,7 +31,3 @@ MIT
 Credits
 [![N|Credits](https://i.ibb.co/MN1xvFd/image.png)](https://www.programming-hero.com/)
 [![N|Credits](https://i.ibb.co/CBdLRCp/hishcodes-logo.png)](https://www.hishcodes.com/)
-
-[Website]: <https://hishcodes.com>
-[github-url]: <https://github.com/hishcodes>
-[git-repo-url]: <https://github.com/hishcodes/cam_mouse.gitt>
